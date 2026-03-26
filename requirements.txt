@@ -1,0 +1,8 @@
+openpyxl==3.1.5
+
+# Web interface
+streamlit==1.47.0
+
+# API (si nécessaire)
+fastapi==0.115.4
+
